@@ -3,8 +3,8 @@ import requests
 from datetime import datetime
 import smtplib
 
-my_email = "shuvratcp@gmail.com"
-my_password = "iamacool"
+my_email = "" #YOUR EMAIL
+my_password = "" #YOUR PASSWORD
 
 
 def day_time():
